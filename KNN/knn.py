@@ -7,14 +7,15 @@ class KNN:
 		self.k = k
 
 	def distance(self,x1,x2):
-		return np.sqrt(x1**2 + x2**2)
+		dist = 0
+		for i in range(len(x1)):
+			dist += (x1[i] - x2[i])**2
+		return np.sqrt(dist)
 
 	def get_class(self, x):
-		dis = np.zeros_like(self.data).astype('float')
+		dis = np.zeros((self.data.shape[0],)).astype('float')
 
-		for i in range(len(self.data)):
+		for i in range(self.data.shape[0]):
 			dis[i] = self.distance(self.data[i], x)
 
-		print(dis, np.argmin(dis))
-
-		return self.classes[np.argmin(dis)]
+		return self.classes[np.argmin(dis)] 
