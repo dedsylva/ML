@@ -3,10 +3,10 @@ Implementation from scratch of popular ML Algorithms
 
 ## Rules
 * Code in Python3
-* Use only Numpy, Pandas libraries
+* Use only Numpy, Scipy, Pandas libraries
 
 ## Algorithms
-- KNN []
+- KNN [x]
 - Linear Regression []
 - Logistic Regression []
 - Naive Bayes []
@@ -17,6 +17,5 @@ Implementation from scratch of popular ML Algorithms
 - K-Means []
 
 ## TODO
-* KNN
 * Linear Regression
 * Logistic Regression

@@ -13,12 +13,12 @@ if __name__ == '__main__':
   DIMENSION = 2
 
   if len(sys.argv) > 4:
-    if sys.argv[4] == '--centroid' or '-c':
-      CENTROID =  False #change to True
+    if sys.argv[4] == '--centroid' or sys.argv[4] == '-c':
+      CENTROID =  True
     else: 
       raise ValueError('Fourth Argument should be --centroid or -c, instead got %s' %(sys.argv[4]))
   else: 
-    CENTROID = True
+    CENTROID = False
 
   print('%d Nearest Neighbors with size %d and %d classes' 
     %(k, SIZE, N_CLASSES))
