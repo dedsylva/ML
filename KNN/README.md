@@ -1,4 +1,4 @@
-# K-Nearest Neighbors (KNN) Algorithm
+# K-Nearest Neighbors (KNN) Algorithm for 2 Dimension plots
 
 ## Description
 KNN is a classification algorithm that chooses what class an input has based on its (euclidean) distance to their k-neighbors.
@@ -8,12 +8,13 @@ The main.py program creates a random dataset and calculates the class of an inpu
 ```python
 #K, SIZE, NUMBER OF CLASSES
 
-python3 knn.py 3 10 2 #default
+python knn.py 3 10 2 #default
 ```
 
-## TODO
-* Iterative printing (funcAnimation is annoying)
+### TODOs
+* Vanilla [x]
+* Centroid [x]
+* Iterative Plotting [x]
 
-### Implementations
-- Vanilla [x]
-- Centroid []
+### Obs: 
+The implementation of the algorithm is restricted to 2D in order to provide visualization, but it can be easily extended to N-Dimensions.
