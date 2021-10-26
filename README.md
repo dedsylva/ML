@@ -7,7 +7,7 @@ Implementation from scratch of popular ML Algorithms
 
 ## Algorithms
 - KNN [x]
-- Linear Regression []
+- Linear Regression [X]
 - Logistic Regression []
 - Naive Bayes []
 - Perceptron []
@@ -17,5 +17,4 @@ Implementation from scratch of popular ML Algorithms
 - K-Means []
 
 ## TODO
-* Linear Regression
 * Logistic Regression
