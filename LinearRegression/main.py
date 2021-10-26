@@ -8,20 +8,21 @@ if __name__ == '__main__':
 
 	LEARNING_RATE = float(sys.argv[1]) if len(sys.argv) > 1 else 0.001
 	SIZE = int(sys.argv[2]) if len(sys.argv) > 2 else 100 
-	ITERATIONS = int(sys.argv[3]) if len(sys.argv) > 3 else 10 
-
+	FEATURES = int(sys.argv[3]) if len(sys.argv) > 3 else 2
+	TARGETS = int(sys.argv[4]) if len(sys.argv) > 4 else 1 
+	ITERATIONS = int(sys.argv[5]) if len(sys.argv) > 5 else 10 
 
 	np.random.seed(0)
-	X_TRAIN = np.random.rand(SIZE,1)
-	X_TRAIN[0] = 0 # that bias
-	Y_TRAIN = 2 + 3 * X_TRAIN + np.random.rand(SIZE,1)
+	X_TRAIN = np.random.rand(SIZE,FEATURES)
+	X_TRAIN[:,0] = 1 # that bias
+	Y_TRAIN = 2 + 3 * X_TRAIN[:,1].reshape(-1,1) + np.random.rand(SIZE,TARGETS)
 
-	X_TEST = np.random.rand(SIZE,1)
-	X_TEST[0] = 0 # that bias
-	Y_TEST = 2 + 3 * X_TEST + np.random.rand(SIZE,1)
+	X_TEST = np.random.rand(SIZE,FEATURES)
+	X_TEST[:,0] = 1 # that bias
+	Y_TEST = 2 + 3 * X_TEST[:,1].reshape(-1,1) + np.random.rand(SIZE,TARGETS)
 
-	lr = LinearRegression(X_TRAIN, Y_TRAIN) 
-	lr.regress(ITERATIONS, printable=True, lr=LEARNING_RATE)
+	lr = LinearRegression(X_TRAIN, Y_TRAIN, LEARNING_RATE) 
+	weights = lr.regress(ITERATIONS, printable=False)
 
 	predictions = lr.predict(X_TEST, Y_TEST)
 
