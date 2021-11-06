@@ -8,7 +8,7 @@ Implementation from scratch of popular ML Algorithms
 ## Algorithms
 - KNN [x]
 - Linear Regression [X]
-- Logistic Regression []
+- Logistic Regression [X]
 - Naive Bayes []
 - Perceptron []
 - Decision Tree []
@@ -17,4 +17,7 @@ Implementation from scratch of popular ML Algorithms
 - K-Means []
 
 ## TODO
-* Logistic Regression
+* Naive Bayes
+* Perceptron
+* Decision Tree
+* Random Forest 

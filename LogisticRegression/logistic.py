@@ -3,8 +3,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-np.random.seed(0)
-
 class LogisticRegression:
 	def __init__(self, X, Y, lr=0.001):
 		self.X = X
@@ -47,29 +45,142 @@ class LogisticRegression:
 		return self.weights
 
 
-	def predict(self, X_TEST, Y_TEST, printable=True):
+	def predict(self, X_TEST, Y_TEST):
 		self.X_TEST = X_TEST
 		self.Y_TEST = Y_TEST
+		results = self.sigmoid(np.dot(X_TEST, self.weights))
+		classes = [1 if r >= 0.5 else 0 for r in results]
 
-		predicted = self.sigmoid(np.dot(X_TEST, self.weights))
-		classes = [1 if p >= 0.5 else 0 for p in predicted]
-		
-		right = 0.
-		wrong = 0.
-	
+		right, wrong = 0., 0.
+		ones, zeros = 0., 0.
 		for i in range(len(classes)):
-			print('Predicted: %d | True: %d | Probability: %.1f %%' %(classes[i], self.Y_TEST[i], predicted[i]*100))
+			#print('Predicted: %d, Got: %d' %(classes[i], self.Y_TEST[i]))
 			if classes[i] == self.Y_TEST[i]:
 				right += 1
-		
+				if classes[i] == 1:
+					ones += 1
+				else:
+					zeros += 1
+			else:
+				wrong += 1
+
 		right /= len(classes)
-		wrong = 1 - right
+		wrong /= len(classes)
 
-		# TODO: Create AUC, Confusion Matrix, Precision, Recall Metrics
-		print('Got %.2f Right, %.2f Wrong' %(right, wrong))
+		print('Got %.2f Right, %.2f Wrong' % (right, wrong))
+		print('Got %d Ones, %d Zeros' % (ones, zeros))
+	
+		return results 
 
-	def plot(self):
-		# TODO: Plot the distribution of the classes, similar to what we did in KNN
+	def get_confusion_matrix(self, predictions):
+		#  *** CONFUSION MATRIX ***
+		#					Predicted
+		# Actual		1			0
+		#	1      |  TP    FN
+		#	0			 |  FP    TN
+
+		confusion = np.zeros((2,2))
+		classes = [1 if p >= 0.5 else 0 for p in predictions]
+
+		for i,cl in enumerate(classes):
+			if cl == 1:
+				if self.Y_TEST[i] == 1:
+					confusion[0,0] += 1
+				else:
+					confusion[1,0] += 1
+			else: 
+				if self.Y_TEST[i] == 1:
+					confusion[0,1] += 1
+				else:
+					confusion[1,1] += 1
+
+		print('Confusion Matrix')
+		print(confusion)
+		return confusion
+
+
+	def get_precision(self, predictions):
+		TP, FP = 0., 0.
+
+		classes = [1 if p >= 0.5 else 0 for p in predictions]
+
+		for i,cl in enumerate(classes):
+			if cl == 1:
+				if self.Y_TEST[i] == 1:
+					TP += 1
+				else:
+					FP += 1
+			else:
+				continue
+
+		precision = (TP/(TP+FP))*100
+		print('Got %.2f of Precision' %(precision))
+		return precision
+
+
+	def get_recall(self, predictions):
+		TP, FN = 0., 0.
+
+		classes = [1 if p >= 0.5 else 0 for p in predictions]
+
+		for i,cl in enumerate(classes):
+			if cl == 1:
+				if self.Y_TEST[i] == 1:
+					TP += 1
+				else:
+					continue
+			else:
+				if self.Y_TEST[i] == 1:
+					FN += 1
+				else:
+					continue
+
+		recall = (TP/(TP+FN))*100
+		print('Got %.2f of Recall' %(recall))
+		return recall 
+
+	def get_AUC(self, predictions):
+		# thresholds
+		thresholds = np.array(range(0,105,5))/100
+
+		TPR = np.zeros((len(thresholds)))
+		FPR = np.zeros((len(thresholds)))
+		TP = np.zeros((len(thresholds)))
+		FP = np.zeros((len(thresholds)))
+		FN = np.zeros((len(thresholds)))
+		TN = np.zeros((len(thresholds)))
+
+		for i,th in enumerate(thresholds):
+			classes = [1 if p >= th else 0 for p in predictions]
+			for cl in classes:
+				if cl == 1:
+					if self.Y_TEST[i] == 1:
+						TP[i] += 1	
+					else:
+						FP[i] += 1	
+				else: 
+					if self.Y_TEST[i] == 1:
+						FN[i] += 1	
+					else:
+						TN[i] += 1 	
+
+		# True Positive Rate aka Sensitivity
+		TPR = TP / (TP + FN)
+
+		# False Positive Rate ( 1 - Sensitivity)
+		FPR = FP / (TN + FP)
+
+		plt.scatter(FPR, TPR, label='ROC')
+		plt.plot([0,1])
+		plt.xlabel('False Positive Rate')
+		plt.ylabel('True Positive Rate')
+		plt.legend()
+		plt.show()
+
+		AUC = round(abs(np.trapz(FPR, TPR)),4)*100
+		print('Got %f of AUC' %(AUC))
+
+	def plot_loss(self):
 
 		plt.plot(self.losses, label='Loss')
 		plt.xlabel('Iterations')

@@ -1,0 +1,420 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>File:Precisionrecall.svg - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"76e57683-3edd-43b4-9b48-16ccec4aa598","wgCSPNonce":!1,"wgCanonicalNamespace":"File","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":6,"wgPageName":"File:Precisionrecall.svg","wgTitle":"Precisionrecall.svg","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"File:Precisionrecall.svg","wgRelevantArticleId":0,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionCreate":[],"wgRestrictionUpload":[],"wgFlaggedRevsParams":{"tags":{"status":{
+"levels":-1}}},"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":!0,"wgCentralAuthMobileDomain":!1,"wgGENewcomerTasksGuidanceEnabled":!0,"wgGEAskQuestionEnabled":!1,"wgGELinkRecommendationsFrontendEnabled":!1};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","filepage":"ready","mediawiki.action.view.filepage":"ready","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":
+"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.action.view.metadata","site","mediawiki.page.ready","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.centralauth.centralautologin"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cfilepage%7Cmediawiki.action.view.filepage%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<link rel="stylesheet" href="https://commons.wikimedia.org/w/index.php?title=MediaWiki:Filepage.css&amp;action=raw&amp;ctype=text/css"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.38.0-wmf.7"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Precisionrecall.svg/1200px-Precisionrecall.svg.png"/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="2182"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Precisionrecall.svg/800px-Precisionrecall.svg.png"/>
+<meta property="og:image:width" content="800"/>
+<meta property="og:image:height" content="1455"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Precisionrecall.svg/640px-Precisionrecall.svg.png"/>
+<meta property="og:image:width" content="640"/>
+<meta property="og:image:height" content="1164"/>
+<meta property="og:title" content="File:Precisionrecall.svg - Wikipedia"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/File:Precisionrecall.svg"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://commons.wikimedia.org/wiki/File:Precisionrecall.svg"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-6 ns-subject page-File_Precisionrecall_svg rootpage-File_Precisionrecall_svg skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	<div id="mw-indicator-commons-icon" class="mw-indicator"><a href="https://commons.wikimedia.org/wiki/File:Precisionrecall.svg" title="This is a file from the Wikimedia Commons"><img alt="This is a file from the Wikimedia Commons" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" decoding="async" width="15" height="20" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/22px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></div>
+	</div>
+	<h1 id="firstHeading" class="firstHeading" >File:Precisionrecall.svg</h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" class="mw-body-content"><ul id="filetoc"><li><a href="#file">File</a></li>
+<li><a href="#filehistory">File history</a></li>
+<li><a href="#filelinks">File usage</a></li>
+<li><a href="#globalusage">Global file usage</a></li>
+<li><a href="#metadata">Metadata</a></li></ul><div class="fullImageLink" id="file"><a href="//upload.wikimedia.org/wikipedia/commons/2/26/Precisionrecall.svg"><img alt="File:Precisionrecall.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Precisionrecall.svg/330px-Precisionrecall.svg.png" decoding="async" width="330" height="600" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Precisionrecall.svg/495px-Precisionrecall.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/26/Precisionrecall.svg/660px-Precisionrecall.svg.png 2x" data-file-width="440" data-file-height="800" /></a><div class="mw-filepage-resolutioninfo">Size of this PNG preview of this SVG file: <a href="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Precisionrecall.svg/330px-Precisionrecall.svg.png" class="mw-thumbnail-link">330 × 600 pixels</a>. <span class="mw-filepage-other-resolutions">Other resolutions: <a href="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Precisionrecall.svg/132px-Precisionrecall.svg.png" class="mw-thumbnail-link">132 × 240 pixels</a> | <a href="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Precisionrecall.svg/264px-Precisionrecall.svg.png" class="mw-thumbnail-link">264 × 480 pixels</a> | <a href="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Precisionrecall.svg/422px-Precisionrecall.svg.png" class="mw-thumbnail-link">422 × 768 pixels</a> | <a href="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Precisionrecall.svg/563px-Precisionrecall.svg.png" class="mw-thumbnail-link">563 × 1,024 pixels</a> | <a href="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Precisionrecall.svg/1126px-Precisionrecall.svg.png" class="mw-thumbnail-link">1,126 × 2,048 pixels</a> | <a href="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Precisionrecall.svg/440px-Precisionrecall.svg.png" class="mw-thumbnail-link">440 × 800 pixels</a>.</span></div></div>
+<div class="fullMedia"><p><a href="//upload.wikimedia.org/wikipedia/commons/2/26/Precisionrecall.svg" class="internal" title="Precisionrecall.svg">Original file</a> &#8206;<span class="fileInfo">(SVG file, nominally 440 × 800 pixels, file size: 48 KB)</span>
+</p></div><div class="sharedUploadNotice">
+<table id="mw-sharedupload" class="plainlinks fmbox fmbox-system" role="presentation"><tbody><tr><td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" title="Wikimedia Commons logo" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td><td class="mbox-text" style="text-align: center;">This is a file from the <a href="https://commons.wikimedia.org/wiki/Main_Page" class="extiw" title="commons:Main Page">Wikimedia Commons</a>. Information from its <b><a href="https://commons.wikimedia.org/wiki/File:Precisionrecall.svg" class="extiw" title="commons:File:Precisionrecall.svg">description page there</a></b> is shown below.<br /><span style="font-size: smaller;">Commons is a freely licensed media file repository. <a href="https://commons.wikimedia.org/wiki/Commons:Welcome" class="extiw" title="commons:Commons:Welcome">You can help</a>.</span></td></tr></tbody></table>
+</div>
+<div id="shared-image-desc"><div class="mw-parser-output"><h2><span class="mw-headline" id="Summary">Summary</span></h2>
+<div class="hproduct commons-file-information-table">
+<table class="fileinfotpl-type-information toccolours vevent mw-content-ltr" style="width: 100%; direction: ltr;" cellpadding="4"><tbody><tr style="vertical-align: top"><td id="fileinfotpl_desc" class="fileinfo-paramfield" lang="en">Description<span class="summary fn" style="display:none">Precisionrecall.svg</span></td>
+<td class="description">
+<div class="description mw-content-ltr en" dir="ltr" lang="en"><span class="language en" title="English"><b>English: </b></span> Precision and recall</div></td>
+</tr><tr style="vertical-align: top"><td id="fileinfotpl_date" class="fileinfo-paramfield" lang="en">Date</td>
+<td lang="en">
+22 November 2014</td>
+</tr><tr style="vertical-align: top"><td id="fileinfotpl_src" class="fileinfo-paramfield" lang="en">Source</td>
+<td>
+<span class="int-own-work" lang="en">Own work</span></td>
+</tr><tr style="vertical-align: top"><td id="fileinfotpl_aut" class="fileinfo-paramfield" lang="en">Author</td>
+<td>
+<a href="//commons.wikimedia.org/wiki/User:Walber" title="User:Walber">Walber</a></td>
+</tr><tr style="vertical-align: top"><td id="fileinfotpl_ver" class="fileinfo-paramfield" lang="en">Other versions</td>
+<td>
+<p><span class="editsection">[<span class="noprint plainlinks"><a class="external text" href="https://commons.wikimedia.org/w/index.php?title=Template:Other_versions/Precisionrecall&amp;action=edit">edit</a></span>]</span><br clear="all"></p>
+<ul class="gallery mw-gallery-traditional"><li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="//commons.wikimedia.org/wiki/File:Precisionrecall.svg" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Precisionrecall.svg/66px-Precisionrecall.svg.png" decoding="async" width="66" height="120" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Precisionrecall.svg/99px-Precisionrecall.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Precisionrecall.svg/132px-Precisionrecall.svg.png 2x" data-file-width="440" data-file-height="800"></a></div></div>
+			<div class="gallerytext">
+<p>English (original)
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="//commons.wikimedia.org/wiki/File:T%C3%A4psus_ja_saagis.svg" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/T%C3%A4psus_ja_saagis.svg/66px-T%C3%A4psus_ja_saagis.svg.png" decoding="async" width="66" height="120" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/T%C3%A4psus_ja_saagis.svg/99px-T%C3%A4psus_ja_saagis.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/T%C3%A4psus_ja_saagis.svg/132px-T%C3%A4psus_ja_saagis.svg.png 2x" data-file-width="440" data-file-height="800"></a></div></div>
+			<div class="gallerytext">
+<p>Estonian
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="//commons.wikimedia.org/wiki/File:Fa-Precisionrecall.svg" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fa-Precisionrecall.svg/66px-Fa-Precisionrecall.svg.png" decoding="async" width="66" height="120" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fa-Precisionrecall.svg/99px-Fa-Precisionrecall.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fa-Precisionrecall.svg/132px-Fa-Precisionrecall.svg.png 2x" data-file-width="440" data-file-height="800"></a></div></div>
+			<div class="gallerytext">
+<p>Persian
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="//commons.wikimedia.org/wiki/File:Precisionrecall_uk.svg" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Precisionrecall_uk.svg/66px-Precisionrecall_uk.svg.png" decoding="async" width="66" height="120" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Precisionrecall_uk.svg/99px-Precisionrecall_uk.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Precisionrecall_uk.svg/132px-Precisionrecall_uk.svg.png 2x" data-file-width="440" data-file-height="800"></a></div></div>
+			<div class="gallerytext">
+<p>Ukrainian
+</p>
+			</div>
+		</div></li>
+</ul></td>
+</tr></tbody></table></div>
+<h2><span class="mw-headline" id="Licensing">Licensing</span></h2>
+<div style="clear:both; margin:0.5em auto; background-color:#eee; border:2px solid #ddd; padding:8px; direction: ltr;" class="licensetpl_wrapper">
+<div class="center" style="font-weight:bold;"><div lang="en" dir="ltr" class="description en" style="display:inline;">I, the copyright holder of this work, hereby publish it under the following license:</div></div>
+<table style="width:100%; clear:both; text-align:center; margin:0.5em auto; background-color:#f9f9f9; border:2px solid #e0e0e0; padding: 0; border-spacing: 8px;" class="layouttemplate licensetpl mw-content-ltr" lang="en"><tbody><tr><td style="width:90px;" rowspan="3"><img alt="w:en:Creative Commons" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/90px-CC_some_rights_reserved.svg.png" decoding="async" title="w:en:Creative Commons" width="90" height="36" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/135px-CC_some_rights_reserved.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/180px-CC_some_rights_reserved.svg.png 2x" data-file-width="744" data-file-height="300"><br><p><img alt="attribution" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/24px-Cc-by_new_white.svg.png" decoding="async" title="attribution" width="24" height="24" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/36px-Cc-by_new_white.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/48px-Cc-by_new_white.svg.png 2x" data-file-width="64" data-file-height="64"> <img alt="share alike" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/24px-Cc-sa_white.svg.png" decoding="async" title="share alike" width="24" height="24" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/36px-Cc-sa_white.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/48px-Cc-sa_white.svg.png 2x" data-file-width="64" data-file-height="64"></p>
+</td>
+<td lang="en">This file is licensed under the <a href="https://en.wikipedia.org/wiki/en:Creative_Commons" class="extiw" title="w:en:Creative Commons">Creative Commons</a> <a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">Attribution-Share Alike 4.0 International</a> license.
+</td>
+<td style="width:90px;" rowspan="3">
+</td></tr><tr style="text-align:center;"><td style="font-weight:bold;">
+</td></tr><tr style="text-align:left;" lang="en"><td>
+<dl><dd>You are free:
+<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>
+<li><b>to remix</b> – to adapt the work</li></ul></dd>
+<dd>Under the following conditions:
+<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>
+<li><b>share alike</b> – If you remix, transform, or build upon the material, you must distribute your contributions under the <a rel="nofollow" class="external text" href="https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses">same or compatible license</a> as the original.</li></ul></dd></dl><p><span class="licensetpl_link" style="display:none;">https://creativecommons.org/licenses/by-sa/4.0
+</span><span class="licensetpl_short" style="display:none;">CC BY-SA 4.0 
+</span><span class="licensetpl_long" style="display:none;">Creative Commons Attribution-Share Alike 4.0 
+</span><span class="licensetpl_link_req" style="display:none;">true</span><span class="licensetpl_attr_req" style="display:none;">true</span>
+</p>
+</td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1355
+Cached time: 20211022021557
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.132 seconds
+Real time usage: 0.182 seconds
+Preprocessor visited node count: 830/1000000
+Post‐expand include size: 14580/2097152 bytes
+Template argument size: 685/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 3065/5000000 bytes
+Lua time usage: 0.035/10.000 seconds
+Lua memory usage: 951710/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  161.529      1 -total
+ 72.69%  117.413      1 Template:Information
+ 27.15%   43.851      1 Template:Self
+ 21.18%   34.217      1 Template:Other_versions/Precisionrecall
+ 16.35%   26.408      1 Template:Cc-by-sa-4.0
+ 11.82%   19.094      1 Template:Cc-by-sa-layout
+ 10.06%   16.255      1 Template:En
+  7.89%   12.742      1 Template:Edit_other_versions
+  7.52%   12.143      1 Template:Description
+  5.41%    8.744      1 Template:Edit-int
+-->
+<h1 class="mw-slot-header"><mediainfoslotheader></mediainfoslotheader></h1><mediainfoview style="display: none"><mediainfoviewcaptions><div class="wbmi-entityview-captionsPanel oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed"><h3 class="wbmi-entityview-captions-header">Captions</h3><div class="wbmi-entityview-caption oo-ui-layout oo-ui-horizontalLayout"><label aria-disabled="false" class="wbmi-language-label oo-ui-widget oo-ui-widget-enabled oo-ui-labelElement-label oo-ui-labelElement oo-ui-labelWidget">English</label><div lang="en" dir="ltr" class="wbmi-caption-value wbmi-entityview-emptyCaption">Add a one-line explanation of what this file represents</div></div></div></mediainfoviewcaptions><mediainfoviewstatements><div id="P180" data-property="P180" data-statements="[]" data-formatvalue="[]" class="wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P180 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed"><div class="wbmi-statements-widget"><div class="wbmi-statement-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h3 class="wbmi-statements-title">Items portrayed in this file</h3><h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/P180" href="https://www.wikidata.org/wiki/Special:EntityPage/P180">depicts</a></bdi></h4></div></div></div><div class="wbmi-content-items-group"></div></div></div><div id="P170" data-property="P170" data-statements='[{"mainsnak":{"snaktype":"somevalue","property":"P170"},"type":"statement","qualifiers":{"P4174":[{"snaktype":"value","property":"P4174","hash":"a02e74ab9aca4ba4071c28583cebec1b4a181084","datavalue":{"value":"Walber","type":"string"}}],"P2093":[{"snaktype":"value","property":"P2093","hash":"28a51ebfaf5049e935e500c836d92f2d2ace9396","datavalue":{"value":"Walber","type":"string"}}],"P2699":[{"snaktype":"value","property":"P2699","hash":"1a128ea61c01d14aa0818cdbc356b505a43f8b25","datavalue":{"value":"https:\/\/commons.wikimedia.org\/wiki\/user:Walber","type":"string"}}]},"qualifiers-order":["P4174","P2093","P2699"],"id":"M36926283$FE150AB1-D2B2-4A2D-A438-BB3ACCE31604","rank":"normal"}]' data-formatvalue='{"{\"value\":{\"entity-type\":\"property\",\"numeric-id\":170,\"id\":\"P170\"},\"type\":\"wikibase-entityid\"}":{"text\/html":{"en":{"":"&lt;a target=\"_blank\" title=\"d:Special:EntityPage\/P170\" href=\"https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P170\"&gt;creator&lt;\/a&gt;"}},"text\/plain":{"en":{"":"creator"}}},"{\"value\":{\"entity-type\":\"property\",\"numeric-id\":4174,\"id\":\"P4174\"},\"type\":\"wikibase-entityid\"}":{"text\/html":{"en":{"":"&lt;a target=\"_blank\" title=\"d:Special:EntityPage\/P4174\" href=\"https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P4174\"&gt;Wikimedia username&lt;\/a&gt;"}},"text\/plain":{"en":{"":"Wikimedia username"}}},"{\"value\":\"Walber\",\"type\":\"string\"}":{"text\/html":{"en":{"P4174":"&lt;a target=\"_blank\" class=\"wb-external-id external\" href=\"https:\/\/www.wikidata.org\/wiki\/Special:CentralAuth?target=Walber\" rel=\"nofollow\"&gt;Walber&lt;\/a&gt;","P2093":"Walber"}},"text\/plain":{"en":{"P4174":"Walber","P2093":"Walber"}}},"{\"value\":{\"entity-type\":\"property\",\"numeric-id\":2093,\"id\":\"P2093\"},\"type\":\"wikibase-entityid\"}":{"text\/html":{"en":{"":"&lt;a target=\"_blank\" title=\"d:Special:EntityPage\/P2093\" href=\"https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P2093\"&gt;author name string&lt;\/a&gt;"}},"text\/plain":{"en":{"":"author name string"}}},"{\"value\":{\"entity-type\":\"property\",\"numeric-id\":2699,\"id\":\"P2699\"},\"type\":\"wikibase-entityid\"}":{"text\/html":{"en":{"":"&lt;a target=\"_blank\" title=\"d:Special:EntityPage\/P2699\" href=\"https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P2699\"&gt;URL&lt;\/a&gt;"}},"text\/plain":{"en":{"":"URL"}}},"{\"value\":\"https:\\\/\\\/commons.wikimedia.org\\\/wiki\\\/user:Walber\",\"type\":\"string\"}":{"text\/html":{"en":{"P2699":"&lt;a target=\"_blank\" rel=\"nofollow\" class=\"external free\" href=\"https:\/\/commons.wikimedia.org\/wiki\/user:Walber\"&gt;https:\/\/commons.wikimedia.org\/wiki\/user:Walber&lt;\/a&gt;"}},"text\/plain":{"en":{"P2699":"https:\/\/commons.wikimedia.org\/wiki\/user:Walber"}}}}' class="wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P170 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed"><div class="wbmi-statements-widget"><div class="wbmi-statement-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/P170" href="https://www.wikidata.org/wiki/Special:EntityPage/P170">creator</a></bdi></h4></div></div></div><div class="wbmi-content-items-group"><div class="wbmi-item wbmi-item-read"><div data-guid="M36926283$FE150AB1-D2B2-4A2D-A438-BB3ACCE31604" class="wbmi-item-container"><div class="wbmi-entity-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi>some value</bdi></h4></div></div></div><div class="wbmi-item-content"><div class="wbmi-item-content-group"><div class="wbmi-qualifier"><div class="wbmi-qualifier-value"><a target="_blank" title="d:Special:EntityPage/P4174" href="https://www.wikidata.org/wiki/Special:EntityPage/P4174">Wikimedia username</a><span class="wbmi-qualifier-value-separator">: </span><span class="wbmi-qualifier-value--value"><a target="_blank" class="wb-external-id external" href="https://www.wikidata.org/wiki/Special:CentralAuth?target=Walber" rel="nofollow">Walber</a></span></div></div><div class="wbmi-qualifier"><div class="wbmi-qualifier-value"><a target="_blank" title="d:Special:EntityPage/P2093" href="https://www.wikidata.org/wiki/Special:EntityPage/P2093">author name string</a><span class="wbmi-qualifier-value-separator">: </span><span class="wbmi-qualifier-value--value">Walber</span></div></div><div class="wbmi-qualifier"><div class="wbmi-qualifier-value"><a target="_blank" title="d:Special:EntityPage/P2699" href="https://www.wikidata.org/wiki/Special:EntityPage/P2699">URL</a><span class="wbmi-qualifier-value-separator">: </span><span class="wbmi-qualifier-value--value"><a target="_blank" rel="nofollow" class="external free" href="https://commons.wikimedia.org/wiki/user:Walber">https://commons.wikimedia.org/wiki/user:Walber</a></span></div></div></div></div></div></div></div></div></div><div id="P6216" data-property="P6216" data-statements='[{"mainsnak":{"snaktype":"value","property":"P6216","datavalue":{"value":{"entity-type":"item","numeric-id":50423863,"id":"Q50423863"},"type":"wikibase-entityid"}},"type":"statement","id":"M36926283$4524C1E5-81AE-45DA-B140-28D671AEF8F2","rank":"normal"}]' data-formatvalue='{"{\"value\":{\"entity-type\":\"property\",\"numeric-id\":6216,\"id\":\"P6216\"},\"type\":\"wikibase-entityid\"}":{"text\/html":{"en":{"":"&lt;a target=\"_blank\" title=\"d:Special:EntityPage\/P6216\" href=\"https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P6216\"&gt;copyright status&lt;\/a&gt;"}},"text\/plain":{"en":{"":"copyright status"}}},"{\"value\":{\"entity-type\":\"item\",\"numeric-id\":50423863,\"id\":\"Q50423863\"},\"type\":\"wikibase-entityid\"}":{"text\/html":{"en":{"P6216":"&lt;a target=\"_blank\" title=\"d:Special:EntityPage\/Q50423863\" href=\"https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/Q50423863\"&gt;copyrighted&lt;\/a&gt;"}},"text\/plain":{"en":{"P6216":"copyrighted"}}}}' class="wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P6216 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed"><div class="wbmi-statements-widget"><div class="wbmi-statement-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/P6216" href="https://www.wikidata.org/wiki/Special:EntityPage/P6216">copyright status</a></bdi></h4></div></div></div><div class="wbmi-content-items-group"><div class="wbmi-item wbmi-item-read"><div data-guid="M36926283$4524C1E5-81AE-45DA-B140-28D671AEF8F2" class="wbmi-item-container"><div class="wbmi-entity-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/Q50423863" href="https://www.wikidata.org/wiki/Special:EntityPage/Q50423863">copyrighted</a></bdi></h4></div></div></div></div></div></div></div></div><div id="P275" data-property="P275" data-statements='[{"mainsnak":{"snaktype":"value","property":"P275","datavalue":{"value":{"entity-type":"item","numeric-id":18199165,"id":"Q18199165"},"type":"wikibase-entityid"}},"type":"statement","id":"M36926283$F382DD87-08C8-45F0-ABDE-7050426B097B","rank":"normal"}]' data-formatvalue='{"{\"value\":{\"entity-type\":\"property\",\"numeric-id\":275,\"id\":\"P275\"},\"type\":\"wikibase-entityid\"}":{"text\/html":{"en":{"":"&lt;a target=\"_blank\" title=\"d:Special:EntityPage\/P275\" href=\"https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P275\"&gt;copyright license&lt;\/a&gt;"}},"text\/plain":{"en":{"":"copyright license"}}},"{\"value\":{\"entity-type\":\"item\",\"numeric-id\":18199165,\"id\":\"Q18199165\"},\"type\":\"wikibase-entityid\"}":{"text\/html":{"en":{"P275":"&lt;a target=\"_blank\" title=\"d:Special:EntityPage\/Q18199165\" href=\"https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/Q18199165\"&gt;Creative Commons Attribution-ShareAlike 4.0 International&lt;\/a&gt;"}},"text\/plain":{"en":{"P275":"Creative Commons Attribution-ShareAlike 4.0 International"}}}}' class="wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P275 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed"><div class="wbmi-statements-widget"><div class="wbmi-statement-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/P275" href="https://www.wikidata.org/wiki/Special:EntityPage/P275">copyright license</a></bdi></h4></div></div></div><div class="wbmi-content-items-group"><div class="wbmi-item wbmi-item-read"><div data-guid="M36926283$F382DD87-08C8-45F0-ABDE-7050426B097B" class="wbmi-item-container"><div class="wbmi-entity-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/Q18199165" href="https://www.wikidata.org/wiki/Special:EntityPage/Q18199165">Creative Commons Attribution-ShareAlike 4.0 International</a></bdi></h4></div></div></div></div></div></div></div></div><div id="P571" data-property="P571" data-statements='[{"mainsnak":{"snaktype":"value","property":"P571","datavalue":{"value":{"time":"+2014-11-22T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"M36926283$90F33555-0DCF-4770-B327-4C17500F5236","rank":"normal"}]' data-formatvalue='{"{\"value\":{\"entity-type\":\"property\",\"numeric-id\":571,\"id\":\"P571\"},\"type\":\"wikibase-entityid\"}":{"text\/html":{"en":{"":"&lt;a target=\"_blank\" title=\"d:Special:EntityPage\/P571\" href=\"https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P571\"&gt;inception&lt;\/a&gt;"}},"text\/plain":{"en":{"":"inception"}}},"{\"value\":{\"time\":\"+2014-11-22T00:00:00Z\",\"timezone\":0,\"before\":0,\"after\":0,\"precision\":11,\"calendarmodel\":\"http:\\\/\\\/www.wikidata.org\\\/entity\\\/Q1985727\"},\"type\":\"time\"}":{"text\/html":{"en":{"P571":"22 November 2014"}},"text\/plain":{"en":{"P571":"22 November 2014"}}}}' class="wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P571 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed"><div class="wbmi-statements-widget"><div class="wbmi-statement-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/P571" href="https://www.wikidata.org/wiki/Special:EntityPage/P571">inception</a></bdi></h4></div></div></div><div class="wbmi-content-items-group"><div class="wbmi-item wbmi-item-read"><div data-guid="M36926283$90F33555-0DCF-4770-B327-4C17500F5236" class="wbmi-item-container"><div class="wbmi-entity-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi>22 November 2014</bdi></h4></div></div></div></div></div></div></div></div><div id="P7482" data-property="P7482" data-statements='[{"mainsnak":{"snaktype":"value","property":"P7482","datavalue":{"value":{"entity-type":"item","numeric-id":66458942,"id":"Q66458942"},"type":"wikibase-entityid"}},"type":"statement","id":"M36926283$ED955C4A-CADB-441D-8353-EE9F87BE881B","rank":"normal"}]' data-formatvalue='{"{\"value\":{\"entity-type\":\"property\",\"numeric-id\":7482,\"id\":\"P7482\"},\"type\":\"wikibase-entityid\"}":{"text\/html":{"en":{"":"&lt;a target=\"_blank\" title=\"d:Special:EntityPage\/P7482\" href=\"https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P7482\"&gt;source of file&lt;\/a&gt;"}},"text\/plain":{"en":{"":"source of file"}}},"{\"value\":{\"entity-type\":\"item\",\"numeric-id\":66458942,\"id\":\"Q66458942\"},\"type\":\"wikibase-entityid\"}":{"text\/html":{"en":{"P7482":"&lt;a target=\"_blank\" title=\"d:Special:EntityPage\/Q66458942\" href=\"https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/Q66458942\"&gt;original creation by uploader&lt;\/a&gt;"}},"text\/plain":{"en":{"P7482":"original creation by uploader"}}}}' class="wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P7482 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed"><div class="wbmi-statements-widget"><div class="wbmi-statement-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/P7482" href="https://www.wikidata.org/wiki/Special:EntityPage/P7482">source of file</a></bdi></h4></div></div></div><div class="wbmi-content-items-group"><div class="wbmi-item wbmi-item-read"><div data-guid="M36926283$ED955C4A-CADB-441D-8353-EE9F87BE881B" class="wbmi-item-container"><div class="wbmi-entity-header"><div class="wbmi-entity-data"><div class="wbmi-entity-title"><h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/Q66458942" href="https://www.wikidata.org/wiki/Special:EntityPage/Q66458942">original creation by uploader</a></bdi></h4></div></div></div></div></div></div></div></div></mediainfoviewstatements></mediainfoview><!-- Saved in parser cache with key commonswiki:pcache:idhash:36926283-0!wb=3 and timestamp 20211022021557 and revision id 461893813. Serialized with JSON.
+ --></div></div>
+<h2 id="filehistory">File history</h2>
+<div id="mw-imagepage-section-filehistory">
+<p>Click on a date/time to view the file as it appeared at that time.
+</p>
+<table class="wikitable filehistory">
+<tr><th></th><th>Date/Time</th><th>Thumbnail</th><th>Dimensions</th><th>User</th><th>Comment</th></tr>
+<tr><td>current</td><td class='filehistory-selected' style='white-space: nowrap;'><a href="//upload.wikimedia.org/wikipedia/commons/2/26/Precisionrecall.svg">22:21, 22 November 2014</a></td><td><a href="//upload.wikimedia.org/wikipedia/commons/2/26/Precisionrecall.svg"><img alt="Thumbnail for version as of 22:21, 22 November 2014" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Precisionrecall.svg/66px-Precisionrecall.svg.png" decoding="async" width="66" height="120" data-file-width="440" data-file-height="800" /></a></td><td>440 × 800 <span style="white-space: nowrap;">(48 KB)</span></td><td>Walber</td><td dir="ltr">User created page with UploadWizard</td></tr>
+</table>
+
+</div>
+<h2 id="filelinks">File usage</h2>
+<div id='mw-imagepage-section-linkstoimage'>
+<div class="linkstoimage" id="linkstoimage">The following pages on the English Wikipedia use this file (pages on other projects are not listed):</div><ul class="mw-imagepage-linkstoimage">
+<li class="mw-imagepage-linkstoimage-ns0"><a href="/wiki/F-score" title="F-score">F-score</a></li>
+<li class="mw-imagepage-linkstoimage-ns0"><a href="/wiki/Precision_and_recall" title="Precision and recall">Precision and recall</a></li>
+</ul>
+</div>
+<h2 id="globalusage">Global file usage</h2>
+<div id="mw-imagepage-section-globalusage"><p>The following other wikis use this file:
+</p><ul>
+<li class='mw-gu-onwiki-bn_wikipedia_org'>Usage on bn.wikipedia.org
+<ul>	<li><a class="external" href="https://bn.wikipedia.org/wiki/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%B8%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%93_%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A6%B2">প্রিসিশন ও রিকল</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-ca_wikipedia_org'>Usage on ca.wikipedia.org
+<ul>	<li><a class="external" href="https://ca.wikipedia.org/wiki/Precisi%C3%B3_i_reclam">Precisió i reclam</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-ja_wikipedia_org'>Usage on ja.wikipedia.org
+<ul>	<li><a class="external" href="https://ja.wikipedia.org/wiki/%E5%88%A9%E7%94%A8%E8%80%85:%E7%B4%85%E3%81%84%E7%9B%AE%E3%81%AE%E5%A5%B3%E3%81%AE%E5%AD%90/F%E5%80%A4_(%E7%B2%BE%E5%BA%A6)">利用者:紅い目の女の子/F値 (精度)</a></li>
+	<li><a class="external" href="https://ja.wikipedia.org/wiki/F%E3%82%B9%E3%82%B3%E3%82%A2">Fスコア</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-ko_wikipedia_org'>Usage on ko.wikipedia.org
+<ul>	<li><a class="external" href="https://ko.wikipedia.org/wiki/%EC%A0%95%EB%B0%80%EB%8F%84%EC%99%80_%EC%9E%AC%ED%98%84%EC%9C%A8">정밀도와 재현율</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-no_wikipedia_org'>Usage on no.wikipedia.org
+<ul>	<li><a class="external" href="https://no.wikipedia.org/wiki/Wikipedia:Kvalitet_og_feilrater_i_artikler">Wikipedia:Kvalitet og feilrater i artikler</a></li>
+</ul></li>
+</ul>
+</div><h2 id="metadata">Metadata</h2>
+<div class="mw-imagepage-section-metadata"><p>This file contains additional information, probably added from the digital camera or scanner used to create or digitize it.
+</p><p>
+If the file has been modified from its original state, some details may not fully reflect the modified file.</p><table id="mw_metadata" class="mw_metadata collapsed">
+<tbody><tr class="exif-imagewidth mw-metadata-collapsible"><th>Width</th><td>439.99994</td></tr><tr class="exif-imagelength mw-metadata-collapsible"><th>Height</th><td>800</td></tr></tbody></table>
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/wiki/File:Precisionrecall.svg">https://en.wikipedia.org/wiki/File:Precisionrecall.svg</a>"</div></div>
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label" aria-label="" class="vector-menu-heading">
+		
+		<span>Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span>Not logged in</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=File%3APrecisionrecall.svg" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=File%3APrecisionrecall.svg" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label" aria-label="" class="vector-menu-heading">
+		
+		<span>Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-image" class="selected mw-list-item"><a href="/wiki/File:Precisionrecall.svg" title="View the file page [c]" accesskey="c"><span>File</span></a></li><li id="ca-talk" class="new mw-list-item"><a href="/w/index.php?title=File_talk:Precisionrecall.svg&amp;action=edit&amp;redlink=1" rel="discussion" title="Discuss improvements to the content page (page does not exist) [t]" accesskey="t"><span>Talk</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label" aria-label="Change language variant" class="vector-menu-heading">
+		
+		<span>Variants</span>
+			<span class="vector-menu-checkbox-expanded">expanded</span>
+			<span class="vector-menu-checkbox-collapsed">collapsed</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label" aria-label="" class="vector-menu-heading">
+		
+		<span>Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected mw-list-item"><a href="/wiki/File:Precisionrecall.svg"><span>Read</span></a></li><li id="ca-view-foreign" class="mw-list-item"><a href="https://commons.wikimedia.org/wiki/File:Precisionrecall.svg"><span>View on Commons</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="More options"
+	 >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label" aria-label="" class="vector-menu-heading">
+		
+		<span>More</span>
+			<span class="vector-menu-checkbox-expanded">expanded</span>
+			<span class="vector-menu-checkbox-collapsed">collapsed</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<div id="p-search" role="search" class=" vector-search-box">
+	<div>
+			<h3 >
+				<label for="searchInput">Search</label>
+			</h3>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+				/>
+				<input type="hidden" name="title" value="Special:Search"/>
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Search Wikipedia for this text" value="Search" />
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Go to a page with this exact name if it exists" value="Go" />
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Main_Page"
+			title="Visit the main page"></a>
+	</div>
+	<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label" aria-label="" class="vector-menu-heading">
+		
+		<span>Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	<nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+	 >
+	<h3 id="p-interaction-label" aria-label="" class="vector-menu-heading">
+		
+		<span>Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li></ul>
+		
+	</div>
+</nav>
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label" aria-label="" class="vector-menu-heading">
+		
+		<span>Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/File:Precisionrecall.svg" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=File:Precisionrecall.svg&amp;action=info" title="More information about this page"><span>Page information</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label" aria-label="" class="vector-menu-heading">
+		
+		<span>Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=File:Precisionrecall.svg&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":171,"wgHostname":"mw1320"});});</script>
+</body></html>

@@ -5,8 +5,14 @@ Given a dataet, determime if an input X is part of class 1 or 2 (only binary cla
 
 ## How to use
 ```python
-#LEARNING RATE, ITERATIONS, TEST_SAMPLES
+#LEARNING RATE, ITERATIONS, TEST_SIZE_
 
-./main.py 0.001 1000
+./main.py 0.01 0.2 
 
 ```
+
+### Metrics
+
+Just a good reminder of the types of predictions for metrics
+
+![metrics](https://github.com/dedsylva/ML/blob/main/images/metrics.svg)
