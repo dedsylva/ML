@@ -7,7 +7,8 @@ Given a dataet, determime if an input X is part of class 1 or 2 (only binary cla
 ```python
 #LEARNING RATE, ITERATIONS, TEST_SIZE_
 
-./main.py 0.01 0.2 
+./main.py 0.01 100 0.2 #for 95% of AUC
+./main.py 0.1 100 0.2 #for 100% of AUC and more points in ROC curve
 
 ```
 
