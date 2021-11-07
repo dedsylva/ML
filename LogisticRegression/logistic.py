@@ -139,7 +139,7 @@ class LogisticRegression:
 		print('Got %.2f of Recall' %(recall))
 		return recall 
 
-	def get_AUC(self, predictions):
+	def plot_AUC(self, predictions):
 		# thresholds
 		thresholds = np.array(range(0,105,5))/100
 
@@ -152,14 +152,14 @@ class LogisticRegression:
 
 		for i,th in enumerate(thresholds):
 			classes = [1 if p >= th else 0 for p in predictions]
-			for cl in classes:
+			for j,cl in enumerate(classes):
 				if cl == 1:
-					if self.Y_TEST[i] == 1:
+					if self.Y_TEST[j] == 1:
 						TP[i] += 1	
 					else:
 						FP[i] += 1	
 				else: 
-					if self.Y_TEST[i] == 1:
+					if self.Y_TEST[j] == 1:
 						FN[i] += 1	
 					else:
 						TN[i] += 1 	
@@ -177,8 +177,8 @@ class LogisticRegression:
 		plt.legend()
 		plt.show()
 
-		AUC = round(abs(np.trapz(FPR, TPR)),4)*100
-		print('Got %f of AUC' %(AUC))
+		AUC = abs(np.trapz(TPR, x=FPR))*100
+		print('Got %.2f %% of AUC' %(AUC))
 
 	def plot_loss(self):
 

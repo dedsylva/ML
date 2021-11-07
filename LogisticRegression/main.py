@@ -37,6 +37,4 @@ if __name__ == '__main__':
 	confusion = lr.get_confusion_matrix(predictions)
 	precision = lr.get_precision(predictions)
 	recall = lr.get_recall(predictions)
-	lr.get_AUC(predictions)
-	
-	#lr.plot()
+	lr.plot_AUC(predictions)
